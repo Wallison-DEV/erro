@@ -2,9 +2,15 @@ import styled from 'styled-components'
 
 import { cores } from '../../styles'
 
-export const Produto = styled.div``
+export const Produto = styled.div`
+  background-color: red;
+  width: 100%;
+`
 
-export const Titulo = styled.h3``
+export const Titulo = styled.h3`
+  background-color: red;
+  width: 100%;
+`
 
 export const Capa = styled.div`
   position: relative;
